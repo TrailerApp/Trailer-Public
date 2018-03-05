@@ -1,4 +1,4 @@
-# Trailer-Public
+# Trailer Public
 This is a public repo for Trailer documentation and issues.
 
 ## Welcome to Trailer public documentation page
