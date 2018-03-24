@@ -3,21 +3,60 @@ This is a public repo for Trailer documentation and issues.
 
 ## Welcome to Trailer public documentation page
 
+## 1. Introduction
+### 1.1. What is Trailer?
+
 **Trailer is a video recorder and visual editor for macOS**, designed to democratize video *recording, editing and distribution.*
 
 Its elegant and intuitive **interface** will help you make beautiful preview videos of your app in a few simple steps. 
 
-**Record** anything from an iPhone, iPad, Mac or a web app, and **compose** eye catching videos of your app in action. Use different templates, or create your own; Trailer empowers designers to create their own device templates from premade mockups, and makes distribution easy with an open file type. 
+**Record** anything from an iPhone, iPad, Mac or a web app, and **compose** eye catching videos of your app in action. Use different templates, or **create your own**; Trailer empowers designers to create their own device templates from premade mockups, and makes distribution easy with an open file type. 
 
 **Distribute** your videos in precut sizes for favourite social networks like Instagram, Twitter, Facebook or create your own video layout. 
 
 The videos made with Trailer are also **iTunes connect compatible**, so no more messing around with different exporting options until it works. **Trailer just works!**
 
-## 1. Introduction
-### 1.1. What to use trailer for?
 ### 1.2. Who is Trailer for?
+
+First of all, Trailer is MacOS app. If you don't have Mac, you won't be able to use it. If you have Mac, please can check system requirements for Trailer to be sure you can run it!
+
+Now that we've solved technical stuff, let's talk about users! Trailer is very user friendly video editing software. In general, Trailer is designed for anyone who want to create videos and have fun while doing it!
+
+If you're **Indie developer** and you're in constant battles with creating app/game preview videos for AppStore, Trailer will help you! You can record, edit and export videos and be sure it will work! (No more wasting time!) Also, you can record bugs and repro steps, showcase app and even give feedback.
+
+**Digital marketers** invest a lot of money in videos and sometimes those videos aren't even as good as they expected. You, as a digital marketer, have scene of perfect video in your head, but you don't have time to learn complex video editing? With Trailer you can easily record your own video, edit it and export video tailor made for social networks of your choice!
+
+As a **Product manager** you would like to do a keynote style presentation for board members with beautiful backgound, showing device and mirroring your iPhone screen into mockup? No problem! Trailer supports full screen presentation mode, if you need to demo your app to your customers or do a pitch to your investors
+
 ### 1.3. Why choose Trailer?
+
+There are many video editors offering tons of options and tools and it's easy to get stuck even if you need a simple preview video! 
+Trailer is made for easy yet professional video editing. In a few simple steps you can record video, screen or camera, fit it into mockup, edit it and export in desired dimensions. If you want, you can keep it for yourself, but Trailer works best if you share it with your friends or on your favorite social media platform!
+
+We'll give you a few ideas what you can do with Trailer:
+
+1. Create demonstration video for any software program
+2. Create reproduced step of a problem (so you can show it to tech support)
+3. Create video tutorials for school or college class (as a professor or as a student)
+4. Record new tricks and technologies you discovered before you forget them
+5. Record set of videos answering FAQ
+6. Create video based information for products you sell
+7. Create promotional video for products you sell
+8. Demonstrate usage or functionality of an app
+9. Record webcam video message for faster communication (no audio yet)
+10. Give feedback through video
+11. Record gameplay
+
 ### 1.4. How is Trailer different from other video editing software?
+
+Even though there is a lots of video editing software, let's be honest, there's only a few quality products around. Those product are quite expensive and they are not very easy-to-use. 
+
+Trailer’s main focus is to make great looking app preview content recorded, edited and published **with least effort**.
+We designed Trailer to be very **intuitive** for individuals who have never done video editing before, guiding your every step with an intuitive interface and dynamic tooltips. 
+
+**Recording is easy**, just plug in your iPhone or iPad, or select your Mac screen, press record and you’re on your way to create your first recording. Your recording can then fit into a number of beautifully designed device mockups Trailer offers, or you can design your own templates. 
+
+Trailer empowers designers to **create new templates**. Templates are made by simple drag and dropping of a mockup of various file types and then fitting the video to the device screen with Trailer’s powerful shape editing tools. If you’re a mockup designer, you can export your templates to a .trailertemplate file and distribute them to your clients.
 
 ## 2. General 
 ### 2.1. System Requirements 
