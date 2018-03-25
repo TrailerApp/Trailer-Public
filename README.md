@@ -1,7 +1,4 @@
-# Trailer Public
-This is a public repo for Trailer documentation and issues.
-
-## Welcome to Trailer public documentation page
+## Welcome to Trailer documentation page (Beta)
 
 ## 1. Introduction
 ### 1.1. What is Trailer?
