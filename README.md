@@ -1,4 +1,4 @@
-## Welcome to Trailer documentation page (Beta)
+## Welcome to Trailer documentation page (BETA)
 
 ## 1. Introduction
 ### 1.1. What is Trailer?
