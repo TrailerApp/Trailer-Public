@@ -61,6 +61,8 @@ Trailer empowers designers to **create new templates**. Templates are made by a 
 
 ## 3. Interface
 
+![Trailer export to instagram](/images/Trailer_export_instagram.png)
+
 ### 3.1. Overview
 
 ### 3.2. Scene View 
