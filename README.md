@@ -30,7 +30,7 @@ As a **Product manager** you would like to do a keynote style presentation for b
 There are many video editors offering tons of options and tools, and it's easy to get stuck even if you need a simple preview video! 
 Trailer is made for easy, yet professional video editing. In a few simple steps you can record video, screen or camera, fit it into a mockup, edit it and export in desired dimensions. If you want, you can keep it for yourself, but Trailer works best if you share it with your friends or on your favorite social media platform!
 
-We'll give you a few ideas what you can do with Trailer:
+We'll give you a few ideas **what you can do with Trailer**:
 
 1. Create demonstration video for any software program
 2. Create repro steps of a problem or a bug (so you can show it to the tech support)
@@ -63,11 +63,36 @@ Trailer empowers designers to **create new templates**. Templates are made by a 
 
 ### 3.1. Overview
 
+Understanding Trailer interface is easy. Interface is made of three main windows - **Scene view**, **Utilities window** and **Dynamic tooltips window**, for access to various recording and editing options.
+
+![Trailer interface](/images/Trailer_interface.png)
+
+### Trailer user interface components
+
+Component | Description
+------------ | -------------
+Scene view | A place where we visually build our videos. Scene view allows you to look at and directly interact with objects in your scene.
+Utilities | Utilities window is place where you can find main functions: **Record**, **Templates**, **Colors** and **Export**
+Dynamic tooltips | Dynamic tooltips window helps you each step of your process. Just hover the element of choice on your canvas and tooltip will show what you can do and how to execute desired action.
+
 ### 3.2. Scene View 
 
-### 3.3. Inspector
+The Scene is Trailer's main window. The Scene view gives you control over the elements of your video. You can place and move elements around canvas. 
+
+![Trailer scene view](/images/Trailer_scene_view.png)
+
+### 3.3. Utilities
+
+* **Record** - Your recordings library! here you can select devices you want to record, you can record your screen or camera, import your premade videos and browse through your library!
+* **Templates** - Your templates library! Place where you can pick premade templates (including new iPhone X) or create your own!
+* **Colors** - Want a different background color? Pick premade gradient or place custom solid color of your choice.
+* **Export** - Last step before sharing your content... Export video or GIF in precut dimensions for your favorite social media platform!
 
 ### 3.4. Tooltips 
+
+While most tooltips only display static information, Trailer will help you with Dynamic tooltips. Hover an element you want to edit and follow tips for the desired action!
+
+![Trailer dynamic tooltips](/images/Trailer_dynamic_tooltips.png)
 
 ## 4. Functions 
 
