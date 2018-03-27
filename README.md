@@ -1,5 +1,7 @@
 ## Welcome to Trailer documentation page (BETA)
 
+![Trailer export to instagram](/images/Trailer_export_instagram.png)
+
 ## 1. Introduction
 ### 1.1. What is Trailer?
 
