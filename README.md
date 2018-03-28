@@ -15,7 +15,9 @@ The videos made with Trailer are also **iTunes connect compatible**, so no more 
 
 ### 1.2. Who is Trailer for?
 
-Trailer is macOS app. Please check the system requirements for Trailer to make sure you can run it.
+Trailer is macOS app.
+
+First of all, please check the system requirements for Trailer to make sure you can run it!
 
 Now that we've solved technical stuff, let's talk about how Trailer can help you! Trailer is a super user friendly video editing software. In general, Trailer is designed for anyone who want to create videos and have fun while doing it!
 
@@ -61,8 +63,6 @@ Trailer empowers designers to **create new templates**. Templates are made by a 
 
 ## 3. Interface
 
-![Trailer export to instagram](/images/Trailer_export_instagram.png)
-
 ### 3.1. Overview
 
 Understanding Trailer interface is easy. Interface is made of three main windows - **Scene view**, **Utilities window** and **Dynamic tooltips window**, for access to various recording and editing options.
@@ -73,9 +73,9 @@ Understanding Trailer interface is easy. Interface is made of three main windows
 
 Component | Description
 ------------ | -------------
-Scene view | A place where we visually build our videos. Scene view allows you to look at and directly interact with objects in your scene.
-Utilities | Utilities window is place where you can find main functions: **Record**, **Templates**, **Colors** and **Export**
-Dynamic tooltips | Dynamic tooltips window helps you each step of your process. Just hover the element of choice on your canvas and tooltip will show what you can do and how to execute desired action.
+**Scene view** | A place where we visually build our videos. Scene view allows you to look at and directly interact with objects in your scene.
+**Utilities** | Utilities window is place where you can find main functions: **Record**, **Templates**, **Colors** and **Export**
+**Dynamic tooltips** | Dynamic tooltips window helps you each step of your process. Just hover the element of choice on your canvas and tooltip will show what you can do and how to execute desired action.
 
 ### 3.2. Scene View 
 
@@ -97,6 +97,44 @@ While most tooltips only display static information, Trailer will help you with 
 ![Trailer dynamic tooltips](/images/Trailer_dynamic_tooltips.png)
 
 ## 4. Functions 
+
+Main Functions | Description
+----------------- | -----------------
+**Recording** | Under "Record" in Utilities window you can create or import new records and browse your record library. Record library keeps all recordings you've imported or made with Trailer at one place.
+**Templates** | In templates section you can find and use premade templates and easily create new ones. Import backgrounds or mockups of your choice and build your template library. Use templates to create beautiful videos!
+**Colors** | Colors are everywhere! You can use premade color gradients for background of your video or open color wheel and pick your favorite solid color
+**Import** | Import premade videos, images, templates and masks
+**Export** | Export created video as video or GIF. Trailer took care of video dimensions for most popular social media platforms as well as iTunes Connect!
+
+### 4.1. Recording
+
+### 4.1.1. How to create a new recording?
+
+With Trailer recording is easy!
+For now, there are two options for recording in Trailer: You can record your IOS device screen or Mac screen. 
+
+Let us guide you through process of recording:
+
+**1. IOS device screen recording**
+
+- If you want to record your IOS device you'll need to **plug it in Mac** where you use Trailer. Device should be plugged into one of the USB ports on your Mac. You will have to approve on your IOS device that your Mac is trusted.
+- After you've successfully pluged your IOS device into Mac, you're ready to **start recording your screen**, including camera.
+- **Select a device** under "select a device" option and you will see screen from your device in the video placeholder.
+- To **start recording** simply press record button which will automatically start capturing screen from your IOS device.
+- To **stop recording**, press the stop icon in the main recording window.
+- Give a name to your recording, press **save** and new recording is saved to your record library.
+- If you're not satisfied with your recording, press stop and discard recording. (*This will delete your recording and you won't be able to recover it!*)
+
+**2. Mac screen recording**
+
+- If you want to record your Mac screen, first you need to **select your Mac device** under recording options/select a device option.
+- After you've selected your Mac device, you will see your screen in the video placeholder.
+- To **start recording** simply press record button which will automatically minimize Trailer and start recording your screen. 
+- To **stop recording**, press the stop icon in main toolbar. Pressing stop button will finish your capturing session. 
+- Now you only have to give a name to your recording, press **save** and new recording is saved to your record library.
+- If you're not satisfied with your recording, press stop and **discard recording**. (*This will delete your recording and you won't be able to recover it!*)
+
+After you've successfully created your recording it's time to pimp it up!
 
 ### 4.1. Main functions
 ### 4.1.1. Import
