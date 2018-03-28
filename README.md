@@ -15,7 +15,7 @@ The videos made with Trailer are also **iTunes connect compatible**, so no more 
 
 ### 1.2. Who is Trailer for?
 
-Trailer is macOS app.
+Trailer is a macOS app.
 
 First of all, please check the system requirements for Trailer to make sure you can run it!
 
@@ -110,19 +110,18 @@ Main Functions | Description
 
 ### 4.1.1. How to create a new recording?
 
-With Trailer recording is easy!
-For now, there are two options for recording in Trailer: You can record your IOS device screen or Mac screen. 
+With Trailer recording is easy; You can record your iOS device screen or Mac screen. 
 
 Let us guide you through process of recording:
 
-**1. IOS device screen recording**
+**1. iOS device screen recording**
 
-- If you want to record your IOS device you'll need to **plug it in Mac** where you use Trailer. Device should be plugged into one of the USB ports on your Mac. You will have to approve on your IOS device that your Mac is trusted.
-- After you've successfully pluged your IOS device into Mac, you're ready to **start recording your screen**, including camera.
+- If you want to record your iOS device you'll need to **plug it in your Mac** where you are running Trailer. Device should be plugged into one of the USB ports on your Mac. You will have to approve on your iOS device that your Mac is trusted.
+- After you've successfully pluged your iOS device into Mac, you're ready to **start recording your screen**, including camera.
 - **Select a device** under "select a device" option and you will see screen from your device in the video placeholder.
-- To **start recording** simply press record button which will automatically start capturing screen from your IOS device.
+- To **start recording** simply press record button which will automatically start capturing screen from your iOS device.
 - To **stop recording**, press the stop icon in the main recording window.
-- Give a name to your recording, press **save** and new recording is saved to your record library.
+- Give a name to your recording, press **save** and a new recording will be saved to your record library.
 - If you're not satisfied with your recording, press stop and discard recording. (*This will delete your recording and you won't be able to recover it!*)
 
 **2. Mac screen recording**
