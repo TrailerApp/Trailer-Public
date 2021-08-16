@@ -1,7 +1,7 @@
 ## Trailer App Privacy Policy
 
 Trailer app does not collect any of your personal data. 
- - all .trailer and .trailertemplate files are stored on your local hard drive.
+ - all `.trailer` and `.trailertemplate` files are stored on your local hard drive.
 
 Trailer app does not record videos from your macOS device camera.
  - all videos recorded in the app are stored on your local hard drive.
